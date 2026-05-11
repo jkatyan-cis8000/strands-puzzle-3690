@@ -1,0 +1,40 @@
+{
+  "puzzles": [
+    {
+      "theme": "SOLAR SYSTEM",
+      "spangram": "PLANET",
+      "words": [
+        "MARS",
+        "ORBIT",
+        "COMET",
+        "GALAXY",
+        "NEBULA",
+        "METEOR"
+      ]
+    },
+    {
+      "theme": "OCEAN LIFE",
+      "spangram": "WHALE",
+      "words": [
+        "CORAL",
+        "TIDE",
+        "KELP",
+        "FIN",
+        "SHELL",
+        "CLAM"
+      ]
+    },
+    {
+      "theme": "BIRDS",
+      "spangram": "WING",
+      "words": [
+        "FEATHER",
+        "EGGS",
+        "CLAW",
+        "BEAK",
+        "FLY",
+        "PERCH"
+      ]
+    }
+  ]
+}
